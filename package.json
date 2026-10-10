@@ -1,0 +1,12 @@
+{
+  "name": "hot-loads-languages",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "files": [
+    "locales"
+  ],
+  "exports": {
+    "./*": "./locales/*.js"
+  }
+}
