@@ -408,7 +408,7 @@ export default {
         shortcutInvalid: 'Этот ярлык не содержит допустимого объекта запуска',
         shortcutInvalidTitle: 'Некоторые ярлыки устроены иначе',
         targetInvalid: 'Этот файл не содержит допустимого объекта запуска.',
-        triggerDuplicate: '«{name}» уже существует в Hot Loads. Новый ярлык удалён.',
+        triggerDuplicate: '«{name}» уже существует в Hot Loads. Все дополнительные совпадающие триггеры удалены.',
         triggerDuplicateTitle: 'Триггер уже существует',
         creationErrors: {
             companionDeleted: 'Это сопутствующее приложение ожидает окончательного удаления. Сначала восстановите или удалите его навсегда.',

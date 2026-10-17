@@ -408,7 +408,7 @@ export default {
         shortcutInvalid: '该快捷方式不包含有效目标',
         shortcutInvalidTitle: '某些快捷方式的结构有所不同',
         targetInvalid: '该文件不包含有效的启动目标。',
-        triggerDuplicate: '“{name}”已存在于 Hot Loads 中，已移除新的快捷方式。',
+        triggerDuplicate: '“{name}”已存在于 Hot Loads 中。已移除所有其他匹配的触发器。',
         triggerDuplicateTitle: '触发器已存在',
         creationErrors: {
             companionDeleted: '该伴随应用正等待永久删除。请先恢复或永久删除它。',

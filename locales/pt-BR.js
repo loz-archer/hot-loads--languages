@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Esse atalho não contém um destino válido',
         shortcutInvalidTitle: 'Alguns atalhos são construídos de forma diferente',
         targetInvalid: 'Esse arquivo não contém um destino de inicialização válido.',
-        triggerDuplicate: "'{name}' já existe em Hot Loads. O novo atalho foi removido.",
+        triggerDuplicate: "'{name}' já existe em Hot Loads. Todos os gatilhos adicionais correspondentes foram removidos.",
         triggerDuplicateTitle: 'O gatilho já existe',
         creationErrors: {
             companionDeleted: 'Esse companheiro aguarda exclusão permanente. Restaure-o ou exclua-o permanentemente primeiro.',

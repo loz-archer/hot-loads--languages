@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Bu kısayol geçerli bir hedef içermiyor',
         shortcutInvalidTitle: 'Bazı kısayollar farklı yapılandırılmıştır',
         targetInvalid: 'Bu dosya geçerli bir başlatma hedefi içermiyor.',
-        triggerDuplicate: "'{name}' zaten Hot Loads içinde mevcut. Yeni kısayol kaldırıldı.",
+        triggerDuplicate: "'{name}' zaten Hot Loads içinde mevcut. Eşleşen tüm ek tetikleyiciler kaldırıldı.",
         triggerDuplicateTitle: 'Tetikleyici zaten mevcut',
         creationErrors: {
             companionDeleted: 'Bu yardımcı uygulama kalıcı olarak silinmeyi bekliyor. Önce geri yükleyin veya kalıcı olarak silin.',

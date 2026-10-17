@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Ce raccourci ne contient pas de cible valide',
         shortcutInvalidTitle: 'Certains raccourcis sont construits différemment',
         targetInvalid: 'Ce fichier ne contient pas de cible de lancement valide.',
-        triggerDuplicate: "'{name}' existe déjà dans Hot Loads. Le nouveau raccourci a été supprimé.",
+        triggerDuplicate: "'{name}' existe déjà dans Hot Loads. Tous les déclencheurs correspondants supplémentaires ont été supprimés.",
         triggerDuplicateTitle: 'Le déclencheur existe déjà',
         creationErrors: {
             companionDeleted: 'Ce compagnon est en attente de suppression définitive. Restaurez-le ou supprimez-le définitivement avant de continuer.',

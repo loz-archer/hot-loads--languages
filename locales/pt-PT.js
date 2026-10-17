@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Esse atalho não contém um alvo válido',
         shortcutInvalidTitle: 'Alguns atalhos são construídos de forma diferente',
         targetInvalid: 'Esse ficheiro não contém um alvo de lançamento válido.',
-        triggerDuplicate: "'{name}' já existe no Hot Loads. O novo atalho foi removido.",
+        triggerDuplicate: "'{name}' já existe no Hot Loads. Todos os acionadores adicionais correspondentes foram removidos.",
         triggerDuplicateTitle: 'Acionador já existe',
         creationErrors: {
             companionDeleted: 'Esse acompanhante aguarda eliminação permanente. Restaure-o ou elimine-o permanentemente primeiro.',

@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Die snelkoppeling bevat geen geldig doel',
         shortcutInvalidTitle: 'Sommige snelkoppelingen zijn anders opgebouwd',
         targetInvalid: 'Dat bestand bevat geen geldig opstartdoel.',
-        triggerDuplicate: "'{name}' bestaat al in Hot Loads. De nieuwe snelkoppeling is verwijderd.",
+        triggerDuplicate: "'{name}' bestaat al in Hot Loads. Alle aanvullende overeenkomende triggers zijn verwijderd.",
         triggerDuplicateTitle: 'Trigger bestaat al',
         creationErrors: {
             companionDeleted: 'Die begeleidende app wacht op permanente verwijdering. Herstel of verwijder deze eerst permanent.',

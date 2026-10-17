@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Tato zkratka neobsahuje platný cíl',
         shortcutInvalidTitle: 'Některé zkratky jsou konfigurovány jinak',
         targetInvalid: 'Tento soubor neobsahuje platný cíl spuštění.',
-        triggerDuplicate: "'{name}' již existuje v Hot Loads. Nová zkratka byla odstraněna.",
+        triggerDuplicate: "'{name}' již existuje v Hot Loads. Všechny další odpovídající spouštěče byly odstraněny.",
         triggerDuplicateTitle: 'Spouštěč již existuje',
         creationErrors: {
             companionDeleted: 'Tato doprovodná aplikace čeká na trvalé odstranění. Nejprve ji obnovte nebo trvale odstraňte.',

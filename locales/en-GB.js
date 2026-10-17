@@ -408,7 +408,7 @@ export default {
         shortcutInvalid: 'That shortcut doesn’t contain a valid target',
         shortcutInvalidTitle: 'Some shortcuts are built differently',
         targetInvalid: 'That file does not contain a valid launch target.',
-        triggerDuplicate: "'{name}' already exists in Hot Loads. The new shortcut was removed.",
+        triggerDuplicate: "'{name}' already exists in Hot Loads. All additional matching triggers have been removed.",
         triggerDuplicateTitle: 'Trigger already exists',
         creationErrors: {
             companionDeleted: 'That companion is awaiting permanent deletion. Restore or permanently delete it first.',

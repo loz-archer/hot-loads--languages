@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Ese atajo no contiene un objetivo válido.',
         shortcutInvalidTitle: 'Algunos atajos se construyen de manera diferente',
         targetInvalid: 'Ese archivo no contiene un destino de lanzamiento válido.',
-        triggerDuplicate: "'{name}' ya existe en Hot Loads. El nuevo atajo fue eliminado.",
+        triggerDuplicate: "'{name}' ya existe en Hot Loads. Se han eliminado todos los activadores coincidentes adicionales.",
         triggerDuplicateTitle: 'El activador ya existe',
         creationErrors: {
             companionDeleted: 'Ese compañero está pendiente de eliminación permanente. Restáuralo o elimínalo permanentemente primero.',

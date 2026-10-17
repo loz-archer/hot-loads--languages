@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Diese Verknüpfung enthält kein gültiges Ziel',
         shortcutInvalidTitle: 'Einige Verknüpfungen sind anders aufgebaut',
         targetInvalid: 'Diese Datei enthält kein gültiges Startziel.',
-        triggerDuplicate: "'{name}' existiert bereits in Hot Loads. Die neue Verknüpfung wurde entfernt.",
+        triggerDuplicate: "'{name}' existiert bereits in Hot Loads. Alle zusätzlichen übereinstimmenden Auslöser wurden entfernt.",
         triggerDuplicateTitle: 'Auslöser existiert bereits',
         creationErrors: {
             companionDeleted: 'Dieser Begleiter wartet auf die dauerhafte Löschung. Stellen Sie ihn zuerst wieder her oder löschen Sie ihn dauerhaft.',

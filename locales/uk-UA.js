@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Цей ярлик не містить валідної цілі',
         shortcutInvalidTitle: 'Деякі ярлики побудовані інакше',
         targetInvalid: 'Цей файл не містить валідної цілі запуску.',
-        triggerDuplicate: "'{name}' вже існує в Hot Loads. Новий ярлик було видалено.",
+        triggerDuplicate: "'{name}' вже існує в Hot Loads. Усі додаткові відповідні тригери видалено.",
         triggerDuplicateTitle: 'Тригер уже існує',
         creationErrors: {
             companionDeleted: 'Ця супутня програма очікує на остаточне видалення. Спочатку відновіть або видаліть її назавжди.',

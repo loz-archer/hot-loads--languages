@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Quella scorciatoia non contiene un target valido',
         shortcutInvalidTitle: 'Alcune scorciatoie sono costruite diversamente',
         targetInvalid: 'Quel file non contiene un target di lancio valido.',
-        triggerDuplicate: "'{name}' esiste già in Hot Loads. La nuova scorciatoia è stata rimossa.",
+        triggerDuplicate: "'{name}' esiste già in Hot Loads. Tutti i trigger aggiuntivi corrispondenti sono stati rimossi.",
         triggerDuplicateTitle: 'Trigger già esistente',
         creationErrors: {
             companionDeleted: 'Quel companion è in attesa di eliminazione definitiva. Ripristinalo o eliminalo definitivamente prima di continuare.',

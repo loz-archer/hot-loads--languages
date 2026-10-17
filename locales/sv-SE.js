@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Denna genväg innehåller inte ett giltigt mål',
         shortcutInvalidTitle: 'Vissa genvägar är byggda på olika sätt',
         targetInvalid: 'Denna fil innehåller inte ett giltigt startmål.',
-        triggerDuplicate: "'{name}' existerar redan i Hot Loads. Den nya genvägen togs bort.",
+        triggerDuplicate: "'{name}' existerar redan i Hot Loads. Alla ytterligare matchande utlösare har tagits bort.",
         triggerDuplicateTitle: 'Utlösare existerar redan',
         creationErrors: {
             companionDeleted: 'Den kompletterande appen väntar på permanent borttagning. Återställ eller ta bort den permanent först.',

@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Aquesta drecera no conté una destinació vàlida',
         shortcutInvalidTitle: "Algunes dreceres estan creades d'una manera diferent",
         targetInvalid: "Aquest fitxer no conté una destinació d'inici vàlida.",
-        triggerDuplicate: "'{name}' ja existeix a Hot Loads. S'ha eliminat la drecera nova.",
+        triggerDuplicate: "'{name}' ja existeix a Hot Loads. S'han eliminat tots els activadors coincidents addicionals.",
         triggerDuplicateTitle: "L'activador ja existeix",
         creationErrors: {
             companionDeleted: "Aquesta aplicació complementària està pendent de supressió permanent. Restaura-la o suprimeix-la permanentment primer.",

@@ -480,7 +480,7 @@ export default {
         shortcutInvalid: 'Ten skrót nie zawiera ważnego celu',
         shortcutInvalidTitle: 'Niektóre skróty są zbudowane inaczej',
         targetInvalid: 'Ten plik nie zawiera ważnego celu uruchomienia.',
-        triggerDuplicate: "'{name}' już istnieje w Hot Loads. Nowy skrót został usunięty.",
+        triggerDuplicate: "'{name}' już istnieje w Hot Loads. Wszystkie dodatkowe pasujące wyzwalacze zostały usunięte.",
         triggerDuplicateTitle: 'Wyzwalacz już istnieje',
         creationErrors: {
             companionDeleted: 'Ta aplikacja towarzysząca oczekuje na trwałe usunięcie. Najpierw ją przywróć lub usuń trwale.',
