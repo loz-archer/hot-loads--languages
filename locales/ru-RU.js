@@ -443,7 +443,8 @@ export default {
     statistics: {
         clicksSaved: 'Вы сэкономили {count} нажатие | Вы сэкономили {count} нажатий',
         clicksSavedLabel: 'Сэкономлено нажатий',
-        cut: 'Вырезать {name}',
+        cut: 'Вырезать: {name}',
+        cutGroup: 'Вырезать группу: {name}',
         executable: 'Исполняемый файл',
         isolate: 'Выделить {name} в отдельную карточку статистики',
         legacyPath: 'Путь недоступен — используется идентификатор процесса',

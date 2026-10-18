@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Du har sparat {count} klick | Du har sparat {count} klick',
         clicksSavedLabel: 'Sparade klick',
-        cut: 'Klipp {name}',
+        cut: 'Klipp ut: {name}',
+        cutGroup: 'Klipp ut grupp: {name}',
         executable: 'Exekverbar fil',
         isolate: 'Isolera {name} i en egen statistikruta',
         legacyPath: 'Sökväg ej tillgänglig – använder process-ID',

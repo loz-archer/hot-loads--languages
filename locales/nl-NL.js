@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'U heeft {count} klik(s) bespaard | U heeft {count} klik(s) bespaard',
         clicksSavedLabel: 'Bespaarde klikken',
-        cut: '{name} knippen',
+        cut: 'Knippen: {name}',
+        cutGroup: 'Groep knippen: {name}',
         executable: 'Uitvoerbaar bestand',
         isolate: '{name} isoleren in een eigen statistiekenkaart',
         legacyPath: 'Pad niet beschikbaar — gebruikt proces-id',

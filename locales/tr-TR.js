@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Siz {count} tıklama tasarrufu yaptınız | Siz {count} tıklama tasarrufu yaptınız',
         clicksSavedLabel: 'Tıklama tasarrufu',
-        cut: '{name} kes',
+        cut: 'Kes: {name}',
+        cutGroup: 'Grubu kes: {name}',
         executable: 'Çalıştırılabilir Dosya',
         isolate: '{name} öğesini kendi istatistik kartında izole et',
         legacyPath: 'Yol mevcut değil — işlem kimliği kullanılıyor',

@@ -443,7 +443,8 @@ export default {
     statistics: {
         clicksSaved: 'You’ve saved {count} click | You’ve saved {count} clicks',
         clicksSavedLabel: 'Clicks saved',
-        cut: 'Cut {name}',
+        cut: 'Cut: {name}',
+        cutGroup: 'Cut Group: {name}',
         executable: 'Executable',
         isolate: 'Isolate {name} in its own statistics card',
         legacyPath: 'Path unavailable — using process identity',

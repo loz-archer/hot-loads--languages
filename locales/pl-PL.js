@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Zaoszczędziłeś {count} kliknięcie | Zaoszczędziłeś {count} kliknięć',
         clicksSavedLabel: 'Oszczędzone kliknięcia',
-        cut: 'Tnij {name}',
+        cut: 'Wytnij: {name}',
+        cutGroup: 'Wytnij grupę: {name}',
         executable: 'Plik wykonywalny',
         isolate: 'Wyizoluj {name} w osobnej karcie statystyk',
         legacyPath: 'Ścieżka niedostępna — użyto identyfikatora procesu',

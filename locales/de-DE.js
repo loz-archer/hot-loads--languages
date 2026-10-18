@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Sie haben {count} gespeichert. Klicken Sie auf | Sie haben {count} Klicks gespeichert',
         clicksSavedLabel: 'Klicks gespeichert',
-        cut: 'Schneiden Sie {name}',
+        cut: 'Ausschneiden: {name}',
+        cutGroup: 'Gruppe ausschneiden: {name}',
         executable: 'Ausführbar',
         isolate: 'Isolieren Sie {name} in einer eigenen Statistikkarte',
         legacyPath: 'Pfad nicht verfügbar – Prozessidentität wird verwendet',

@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Ви зекономили {count} клік | Ви зекономили {count} кліків',
         clicksSavedLabel: 'Збережені кліки',
-        cut: 'Вирізати {name}',
+        cut: 'Вирізати: {name}',
+        cutGroup: 'Вирізати групу: {name}',
         executable: 'Виконуваний файл',
         isolate: 'Ізолювати {name} у власній картці статистики',
         legacyPath: 'Шлях недоступний — використовується ідентифікація процесу',

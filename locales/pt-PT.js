@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Economizou {count} clique | Economizou {count} cliques',
         clicksSavedLabel: 'Cliques poupados',
-        cut: 'Cortar {name}',
+        cut: 'Cortar: {name}',
+        cutGroup: 'Cortar grupo: {name}',
         executable: 'Executável',
         isolate: 'Isolar {name} num cartão de estatísticas próprio',
         legacyPath: 'Caminho indisponível — a usar identidade de processo',

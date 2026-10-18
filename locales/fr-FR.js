@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Vous avez enregistré {count} cliquez | Vous avez enregistré {count} clics',
         clicksSavedLabel: 'Clics enregistrés',
-        cut: 'Couper {name}',
+        cut: 'Couper : {name}',
+        cutGroup: 'Couper le groupe : {name}',
         executable: 'Exécutable',
         isolate: 'Isoler {name} dans sa propre fiche de statistiques',
         legacyPath: "Chemin indisponible – utilisation de l'identité du processus",

@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Ušetřili jste {count} kliknutí | Ušetřili jste {count} kliknutí',
         clicksSavedLabel: 'Ušetřěná kliknutí',
-        cut: 'Střihat {name}',
+        cut: 'Střihat: {name}',
+        cutGroup: 'Střihat skupinu: {name}',
         executable: 'Spustitelný soubor',
         isolate: 'Izolovat {name} do vlastní karty statistik',
         legacyPath: 'Cesta není k dispozici — používá se identita procesu',

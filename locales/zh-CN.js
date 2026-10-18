@@ -443,7 +443,8 @@ export default {
     statistics: {
         clicksSaved: '已节省 {count} 次点击 | 已节省 {count} 次点击',
         clicksSavedLabel: '节省的点击次数',
-        cut: '剪切 {name}',
+        cut: '剪切：{name}',
+        cutGroup: '剪切组：{name}',
         executable: '可执行文件',
         isolate: '将 {name} 独立显示在统计卡片中',
         legacyPath: '路径不可用 — 使用进程标识',

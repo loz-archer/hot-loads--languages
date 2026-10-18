@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Has estalviat {count} clic | Has estalviat {count} clics',
         clicksSavedLabel: 'Clics estalviats',
-        cut: 'Retalla {name}',
+        cut: 'Retalla: {name}',
+        cutGroup: 'Retalla el grup: {name}',
         executable: 'Executable',
         isolate: "Aïlla {name} en una targeta d'estadístiques pròpia",
         legacyPath: "Ruta no disponible — s'utilitza la identitat del procés",

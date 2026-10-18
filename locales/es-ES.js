@@ -515,7 +515,8 @@ export default {
     statistics: {
         clicksSaved: 'Has guardado {count} clic | Has guardado {count} clics',
         clicksSavedLabel: 'Clics guardados',
-        cut: 'Cortar {name}',
+        cut: 'Cortar: {name}',
+        cutGroup: 'Cortar grupo: {name}',
         executable: 'Ejecutable',
         isolate: 'Aislar {name} en su propia tarjeta de estadísticas',
         legacyPath: 'Ruta no disponible: usando la identidad del proceso',
