@@ -130,6 +130,7 @@ export default {
         minimize: 'Minimise Hot Loads',
         settings: 'Open settings',
         statistics: 'Open statistics',
+        tour: 'Start guided tour',
         triggers: 'Go to triggers',
     },
     companion: {
@@ -282,6 +283,38 @@ export default {
         backToTriggers: 'Back to triggers',
     },
     onboarding: {
+        tour: {
+            addCompanionDescription: 'With a trigger added, let’s add one or more companions you would like to load automatically when your trigger starts.',
+            addCompanionTitle: 'Add a companion',
+            alertDescription: 'This is how Hot Loads notifies you that it needs to onboard a trigger or companion for the first time.',
+            alertTitle: 'Did you notice this alert icon?',
+            bootstrapDescription: 'Some apps and games are started through a bootstrap launcher. Hot Loads tries to detect this through onboarding.',
+            configureDescription: 'Choose how Hot Loads starts, behaves in the system tray, and detects your applications.',
+            configureTitle: 'Before we get started, let’s configure the app',
+            continue: 'Continue',
+            finalDescription: 'Hot Loads implements a handful of extra features and settings for your triggers and companions. Click the configuration button to reveal more options.',
+            finalTitle: 'One last thing',
+            finish: 'Finish',
+            firstTriggerDescription: 'Hot Loads watches for a game or app to start, then launches the companion apps you’ve assigned to it.',
+            firstTriggerTitle: 'Let’s add your first trigger',
+            onboardingDescription: 'Click this button to launch your trigger and Hot Loads will try to find the correct target, working directory, and monitored process for the trigger and its companions automatically.',
+            onboardingTitle: 'Onboarding',
+            progress: '{current} of {total}',
+            repeatDescription: 'You can change this at any time in Settings.',
+            repeatTitle: 'Would you like to see this tour again?',
+            selectTriggerDescription: 'Select a program (.exe), .lnk shortcut, or .url shortcut to use as your trigger. You might find it easier to create desktop shortcuts and drag them into Hot Loads to process.',
+            triggerAddedDescription: 'This card represents the trigger you just added.',
+            triggerAddedTitle: 'Well done',
+            welcomeDescription: 'Hot Loads silently and efficiently waits for your triggers to start and automatically starts any companion apps you’ve assigned at the same time.',
+            welcomeTitle: 'Welcome to Hot Loads',
+            languageDescription: 'Select the language used by Hot Loads, or leave it as system default.',
+            startWithWindowsDescription: 'Recommended: Enable this so Hot Loads is ready for you to launch a game or application.',
+            administratorActionsDescription: 'Recommended: Enable this so Hot Loads can manage triggers and companions that run as administrator.',
+            startHiddenDescription: 'Recommended: Enable this so Hot Loads starts quietly in the system tray.',
+            closeToTrayDescription: 'Recommended: Keep this enabled so closing the window leaves Hot Loads monitoring in the system tray.',
+            pauseWhileFocusedDescription: 'Enable this to prevent companion apps from launching while you configure Hot Loads. The system tray icon indicates when Hot Loads is paused.',
+            autoDetectMonitoredProcessesDescription: 'Recommended: Keep this enabled so Hot Loads can automatically identify the process started by shortcuts and launchers.',
+        },
         companion: {
             description: 'Hot Loads silently and efficiently waits for your triggers to start and will automatically start this companion app at the same time.',
             title: 'Select a companion app',
@@ -353,6 +386,10 @@ export default {
             systemDefault: 'System default',
         },
         options: {
+            showTourOnStartup: {
+                description: 'Show the guided tour whenever Hot Loads starts',
+                label: 'Show tour on start-up',
+            },
             diagnosticLogging: {
                 label: 'Diagnostic logging',
                 description: 'Save local troubleshooting logs. Enable this before reproducing a problem.',
@@ -360,8 +397,8 @@ export default {
                 openFailed: 'Unable to open the logs folder.',
             },
             autoDetectMonitoredProcesses: {
-                description: 'Detect the final running process the first time an important shortcut is launched',
-                label: 'Automatically detect launched applications',
+                description: 'Automatically identify the process started by shortcuts and launchers.',
+                label: 'Automatically detect monitored processes',
             },
             closeToTray: {
                 description: 'When clicking the close button, Hot Loads minimises to the system tray',
