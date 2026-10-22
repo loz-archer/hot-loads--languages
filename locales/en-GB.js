@@ -307,7 +307,6 @@ export default {
             triggerAddedTitle: 'Well done',
             welcomeDescription: 'Hot Loads silently and efficiently waits for your triggers to start and automatically starts any companion apps you’ve assigned at the same time.',
             welcomeTitle: 'Welcome to Hot Loads',
-            languageDescription: 'Select the language used by Hot Loads, or leave it as system default.',
             startWithWindowsDescription: 'Recommended: Enable this so Hot Loads is ready for you to launch a game or application.',
             administratorActionsDescription: 'Recommended: Enable this so Hot Loads can manage triggers and companions that run as administrator.',
             startHiddenDescription: 'Recommended: Enable this so Hot Loads starts quietly in the system tray.',

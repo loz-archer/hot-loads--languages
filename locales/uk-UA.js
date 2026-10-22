@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Чудово',
             welcomeDescription: 'Hot Loads непомітно й ефективно очікує на запуск ваших тригерів і водночас автоматично запускає призначені їм супутні програми.',
             welcomeTitle: 'Ласкаво просимо до Hot Loads',
-            languageDescription: 'Виберіть мову Hot Loads або залиште системну мову за замовчуванням.',
             startWithWindowsDescription: 'Рекомендовано: увімкніть, щоб Hot Loads був готовий, коли ви запустите гру або програму.',
             administratorActionsDescription: 'Рекомендовано: увімкніть, щоб Hot Loads міг керувати тригерами та супутніми програмами, запущеними від імені адміністратора.',
             startHiddenDescription: 'Рекомендовано: увімкніть, щоб Hot Loads непомітно запускався в області сповіщень.',

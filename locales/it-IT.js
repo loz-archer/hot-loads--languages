@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Ben fatto',
             welcomeDescription: 'Hot Loads attende in modo silenzioso ed efficiente l’avvio dei tuoi attivatori e avvia automaticamente nello stesso momento le app complementari che hai assegnato.',
             welcomeTitle: 'Benvenuto in Hot Loads',
-            languageDescription: 'Seleziona la lingua usata da Hot Loads oppure mantieni l’impostazione predefinita del sistema.',
             startWithWindowsDescription: 'Consigliato: attiva questa opzione affinché Hot Loads sia pronto quando avvii un gioco o un’applicazione.',
             administratorActionsDescription: 'Consigliato: attiva questa opzione affinché Hot Loads possa gestire attivatori e app complementari eseguiti come amministratore.',
             startHiddenDescription: 'Consigliato: attiva questa opzione affinché Hot Loads si avvii discretamente nell’area di notifica.',

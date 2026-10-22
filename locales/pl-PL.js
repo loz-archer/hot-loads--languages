@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Świetnie',
             welcomeDescription: 'Hot Loads dyskretnie i wydajnie czeka na uruchomienie wyzwalaczy, a następnie automatycznie uruchamia przypisane do nich aplikacje towarzyszące.',
             welcomeTitle: 'Witamy w Hot Loads',
-            languageDescription: 'Wybierz język używany przez Hot Loads lub pozostaw domyślny język systemu.',
             startWithWindowsDescription: 'Zalecane: włącz tę opcję, aby Hot Loads był gotowy, gdy uruchomisz grę lub aplikację.',
             administratorActionsDescription: 'Zalecane: włącz tę opcję, aby Hot Loads mógł zarządzać wyzwalaczami i aplikacjami towarzyszącymi uruchomionymi jako administrator.',
             startHiddenDescription: 'Zalecane: włącz tę opcję, aby Hot Loads uruchamiał się dyskretnie w zasobniku systemowym.',

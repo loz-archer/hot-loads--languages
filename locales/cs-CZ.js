@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Výborně',
             welcomeDescription: 'Hot Loads tiše a efektivně čeká na spuštění vašich spouštěčů a současně automaticky spustí všechny přiřazené doprovodné aplikace.',
             welcomeTitle: 'Vítejte v Hot Loads',
-            languageDescription: 'Vyberte jazyk používaný v Hot Loads nebo ponechte výchozí nastavení systému.',
             startWithWindowsDescription: 'Doporučeno: Zapněte, aby byl Hot Loads připraven, až spustíte hru nebo aplikaci.',
             administratorActionsDescription: 'Doporučeno: Zapněte, aby Hot Loads mohl spravovat spouštěče a doprovodné aplikace spuštěné jako správce.',
             startHiddenDescription: 'Doporučeno: Zapněte, aby se Hot Loads spouštěl nenápadně v oznamovací oblasti.',

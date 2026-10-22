@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Bravo',
             welcomeDescription: 'Hot Loads attend discrètement et efficacement le démarrage de vos déclencheurs, puis lance automatiquement en même temps les applications associées que vous leur avez attribuées.',
             welcomeTitle: 'Bienvenue dans Hot Loads',
-            languageDescription: 'Sélectionnez la langue de Hot Loads ou conservez la valeur par défaut du système.',
             startWithWindowsDescription: 'Recommandé : activez cette option afin que Hot Loads soit prêt lorsque vous lancez un jeu ou une application.',
             administratorActionsDescription: 'Recommandé : activez cette option afin que Hot Loads puisse gérer les déclencheurs et applications associées exécutés en tant qu’administrateur.',
             startHiddenDescription: 'Recommandé : activez cette option afin que Hot Loads démarre discrètement dans la zone de notification.',

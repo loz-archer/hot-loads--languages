@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Muito bem',
             welcomeDescription: 'O Hot Loads aguarda seus gatilhos iniciarem de forma silenciosa e eficiente e inicia automaticamente, ao mesmo tempo, os aplicativos complementares que você atribuiu.',
             welcomeTitle: 'Boas-vindas ao Hot Loads',
-            languageDescription: 'Selecione o idioma usado pelo Hot Loads ou mantenha o padrão do sistema.',
             startWithWindowsDescription: 'Recomendado: ative para que o Hot Loads esteja pronto quando você iniciar um jogo ou aplicativo.',
             administratorActionsDescription: 'Recomendado: ative para que o Hot Loads possa gerenciar gatilhos e aplicativos complementares executados como administrador.',
             startHiddenDescription: 'Recomendado: ative para que o Hot Loads seja iniciado discretamente na bandeja do sistema.',

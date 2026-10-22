@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Molt bé',
             welcomeDescription: 'Hot Loads espera de manera silenciosa i eficient que s’iniciïn els activadors i inicia automàticament alhora les aplicacions complementàries que hi hagis assignat.',
             welcomeTitle: 'Et donem la benvinguda a Hot Loads',
-            languageDescription: 'Selecciona l’idioma de Hot Loads o deixa el valor predeterminat del sistema.',
             startWithWindowsDescription: 'Recomanat: activa aquesta opció perquè Hot Loads estigui a punt quan iniciïs un joc o una aplicació.',
             administratorActionsDescription: 'Recomanat: activa aquesta opció perquè Hot Loads pugui gestionar activadors i aplicacions complementàries que s’executin com a administrador.',
             startHiddenDescription: 'Recomanat: activa aquesta opció perquè Hot Loads s’iniciï discretament a la safata del sistema.',
