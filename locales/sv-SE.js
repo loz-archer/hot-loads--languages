@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Bra jobbat',
             welcomeDescription: 'Hot Loads väntar tyst och effektivt på att dina utlösare ska starta och startar samtidigt automatiskt de kompletterande appar som du har tilldelat.',
             welcomeTitle: 'Välkommen till Hot Loads',
-            languageDescription: 'Välj språket som Hot Loads ska använda eller behåll systemets standardinställning.',
             startWithWindowsDescription: 'Rekommenderas: aktivera detta så att Hot Loads är redo när du startar ett spel eller program.',
             administratorActionsDescription: 'Rekommenderas: aktivera detta så att Hot Loads kan hantera utlösare och kompletterande appar som körs som administratör.',
             startHiddenDescription: 'Rekommenderas: aktivera detta så att Hot Loads startas diskret i meddelandefältet.',

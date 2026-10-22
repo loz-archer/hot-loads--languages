@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Gut gemacht',
             welcomeDescription: 'Hot Loads wartet unauffällig und effizient auf den Start deiner Auslöser und startet gleichzeitig automatisch alle zugewiesenen Begleit-Apps.',
             welcomeTitle: 'Willkommen bei Hot Loads',
-            languageDescription: 'Wähle die Sprache für Hot Loads aus oder behalte die Systemvorgabe bei.',
             startWithWindowsDescription: 'Empfohlen: Aktivieren, damit Hot Loads bereit ist, wenn du ein Spiel oder eine Anwendung startest.',
             administratorActionsDescription: 'Empfohlen: Aktivieren, damit Hot Loads Auslöser und Begleit-Apps verwalten kann, die als Administrator ausgeführt werden.',
             startHiddenDescription: 'Empfohlen: Aktivieren, damit Hot Loads unauffällig im Infobereich gestartet wird.',

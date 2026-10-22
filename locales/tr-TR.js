@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Aferin',
             welcomeDescription: 'Hot Loads, tetikleyicilerinizin başlamasını sessizce ve verimli bir şekilde bekler ve aynı anda atadığınız yardımcı uygulamaları otomatik olarak başlatır.',
             welcomeTitle: 'Hot Loads’a hoş geldiniz',
-            languageDescription: 'Hot Loads’ın kullanacağı dili seçin veya sistem varsayılanını koruyun.',
             startWithWindowsDescription: 'Önerilen: Bir oyun veya uygulama başlattığınızda Hot Loads’ın hazır olması için bunu etkinleştirin.',
             administratorActionsDescription: 'Önerilen: Hot Loads’ın yönetici olarak çalışan tetikleyicileri ve yardımcı uygulamaları yönetebilmesi için bunu etkinleştirin.',
             startHiddenDescription: 'Önerilen: Hot Loads’ın sistem tepsisinde sessizce başlaması için bunu etkinleştirin.',

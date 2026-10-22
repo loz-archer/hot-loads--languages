@@ -307,7 +307,6 @@ export default {
             triggerAddedTitle: '做得好',
             welcomeDescription: 'Hot Loads 会在后台高效等待触发器启动，并同时自动运行您为其指定的伴随应用。',
             welcomeTitle: '欢迎使用 Hot Loads',
-            languageDescription: '选择 Hot Loads 使用的语言，或保留系统默认设置。',
             startWithWindowsDescription: '建议：启用此选项，以便您启动游戏或应用时 Hot Loads 已准备就绪。',
             administratorActionsDescription: '建议：启用此选项，让 Hot Loads 能够管理以管理员身份运行的触发器和伴随应用。',
             startHiddenDescription: '建议：启用此选项，让 Hot Loads 在系统托盘中安静启动。',

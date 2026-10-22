@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Muito bem',
             welcomeDescription: 'O Hot Loads aguarda de forma silenciosa e eficiente pelo início dos seus acionadores e inicia automaticamente, ao mesmo tempo, as aplicações acompanhantes que lhes atribuiu.',
             welcomeTitle: 'Bem-vindo ao Hot Loads',
-            languageDescription: 'Selecione o idioma utilizado pelo Hot Loads ou mantenha a predefinição do sistema.',
             startWithWindowsDescription: 'Recomendado: ative esta opção para que o Hot Loads esteja pronto quando iniciar um jogo ou uma aplicação.',
             administratorActionsDescription: 'Recomendado: ative esta opção para que o Hot Loads possa gerir acionadores e aplicações acompanhantes executados como administrador.',
             startHiddenDescription: 'Recomendado: ative esta opção para que o Hot Loads inicie discretamente na área de notificação.',

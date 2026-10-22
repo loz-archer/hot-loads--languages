@@ -379,7 +379,6 @@ export default {
             triggerAddedTitle: 'Goed gedaan',
             welcomeDescription: 'Hot Loads wacht stil en efficiënt tot je triggers worden gestart en start tegelijkertijd automatisch de bijbehorende apps die je eraan hebt toegewezen.',
             welcomeTitle: 'Welkom bij Hot Loads',
-            languageDescription: 'Selecteer de taal voor Hot Loads of behoud de systeemstandaard.',
             startWithWindowsDescription: 'Aanbevolen: schakel dit in zodat Hot Loads klaarstaat wanneer je een game of toepassing start.',
             administratorActionsDescription: 'Aanbevolen: schakel dit in zodat Hot Loads triggers en bijbehorende apps kan beheren die als administrator worden uitgevoerd.',
             startHiddenDescription: 'Aanbevolen: schakel dit in zodat Hot Loads onopvallend in het systeemvak wordt gestart.',
