@@ -1,0 +1,172 @@
+{
+  "ca-ES": {
+    "administratorRelaunch": {
+      "message": "Hot Loads s’ha iniciat sense privilegis d’administrador per permetre arrossegar i deixar anar. Activa les accions d’administrador a la configuració de Hot Loads quan calgui accés elevat.",
+      "title": "Hot Loads no s’executa com a administrador"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads no necessita executar-se amb privilegis d’administrador. En lloc d’això, activa les accions d’administrador a la configuració de Hot Loads.",
+      "title": "Inici de Hot Loads"
+    }
+  },
+  "cs-CZ": {
+    "administratorRelaunch": {
+      "message": "Hot Loads byl spuštěn bez oprávnění správce, aby podporoval přetahování. Pokud potřebujete zvýšená oprávnění, povolte akce správce v nastavení Hot Loads.",
+      "title": "Hot Loads není spuštěn jako správce"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads není nutné spouštět jako správce. Místo toho povolte akce správce v nastavení Hot Loads.",
+      "title": "Spuštění Hot Loads"
+    }
+  },
+  "de-DE": {
+    "administratorRelaunch": {
+      "message": "Hot Loads wurde ohne Administratorrechte gestartet, damit Drag-and-drop funktioniert. Aktivieren Sie Administratoraktionen in den Hot Loads-Einstellungen, wenn erhöhte Rechte benötigt werden.",
+      "title": "Hot Loads wird nicht als Administrator ausgeführt"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads muss nicht als Administrator ausgeführt werden. Aktivieren Sie stattdessen Administratoraktionen in den Hot Loads-Einstellungen.",
+      "title": "Hot Loads-Start"
+    }
+  },
+  "en-GB": {
+    "administratorRelaunch": {
+      "message": "Hot Loads was started without administrator privileges to support drag and drop. Enable administrator actions in Hot Loads settings when elevated access is needed.",
+      "title": "Hot Loads is not running as administrator"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads does not need to run as administrator. Instead, enable administrator actions in Hot Loads settings.",
+      "title": "Hot Loads startup"
+    }
+  },
+  "en-US": {
+    "administratorRelaunch": {
+      "message": "Hot Loads was started without administrator privileges to support drag and drop. Enable administrator actions in Hot Loads settings when elevated access is needed.",
+      "title": "Hot Loads is not running as administrator"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads does not need to run as administrator. Instead, enable administrator actions in Hot Loads settings.",
+      "title": "Hot Loads startup"
+    }
+  },
+  "es-ES": {
+    "administratorRelaunch": {
+      "message": "Hot Loads se ha iniciado sin privilegios de administrador para permitir arrastrar y soltar. Habilita las acciones de administrador en la configuración de Hot Loads cuando necesites acceso elevado.",
+      "title": "Hot Loads no se está ejecutando como administrador"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads no necesita ejecutarse como administrador. En su lugar, activa las acciones de administrador en la configuración de Hot Loads.",
+      "title": "Inicio de Hot Loads"
+    }
+  },
+  "fr-FR": {
+    "administratorRelaunch": {
+      "message": "Hot Loads a été démarré sans privilèges d’administrateur afin de permettre le glisser-déposer. Activez les actions administrateur dans les paramètres de Hot Loads lorsqu’un accès élevé est nécessaire.",
+      "title": "Hot Loads ne s’exécute pas en tant qu’administrateur"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads n’a pas besoin d’être exécuté en tant qu’administrateur. Activez plutôt les actions administrateur dans les paramètres de Hot Loads.",
+      "title": "Démarrage de Hot Loads"
+    }
+  },
+  "it-IT": {
+    "administratorRelaunch": {
+      "message": "Hot Loads è stato avviato senza privilegi di amministratore per consentire il trascinamento. Abilita le azioni di amministratore nelle impostazioni di Hot Loads quando è necessario l’accesso con privilegi elevati.",
+      "title": "Hot Loads non è in esecuzione come amministratore"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads non deve essere eseguito come amministratore. Abilita invece le azioni di amministratore nelle impostazioni di Hot Loads.",
+      "title": "Avvio di Hot Loads"
+    }
+  },
+  "nl-NL": {
+    "administratorRelaunch": {
+      "message": "Hot Loads is zonder administratorrechten gestart om slepen en neerzetten mogelijk te maken. Schakel beheerdersacties in via de instellingen van Hot Loads wanneer verhoogde toegang nodig is.",
+      "title": "Hot Loads wordt niet als administrator uitgevoerd"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads hoeft niet als administrator te worden uitgevoerd. Schakel in plaats daarvan beheerdersacties in via de instellingen van Hot Loads.",
+      "title": "Hot Loads starten"
+    }
+  },
+  "pl-PL": {
+    "administratorRelaunch": {
+      "message": "Hot Loads został uruchomiony bez uprawnień administratora, aby umożliwić przeciąganie i upuszczanie. Gdy potrzebny jest podwyższony dostęp, włącz działania administratora w ustawieniach Hot Loads.",
+      "title": "Hot Loads nie jest uruchomiony jako administrator"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads nie musi być uruchamiany jako administrator. Zamiast tego włącz działania administratora w ustawieniach Hot Loads.",
+      "title": "Uruchamianie Hot Loads"
+    }
+  },
+  "pt-BR": {
+    "administratorRelaunch": {
+      "message": "O Hot Loads foi iniciado sem privilégios de administrador para permitir arrastar e soltar. Ative as ações de administrador nas configurações do Hot Loads quando for necessário acesso elevado.",
+      "title": "O Hot Loads não está sendo executado como administrador"
+    },
+    "administratorStartup": {
+      "message": "O Hot Loads não precisa ser executado como administrador. Em vez disso, ative as ações de administrador nas configurações do Hot Loads.",
+      "title": "Inicialização do Hot Loads"
+    }
+  },
+  "pt-PT": {
+    "administratorRelaunch": {
+      "message": "O Hot Loads foi iniciado sem privilégios de administrador para permitir arrastar e largar. Ative as ações de administrador nas definições do Hot Loads quando for necessário acesso elevado.",
+      "title": "O Hot Loads não está a ser executado como administrador"
+    },
+    "administratorStartup": {
+      "message": "O Hot Loads não precisa de ser executado como administrador. Em vez disso, ative as ações de administrador nas definições do Hot Loads.",
+      "title": "Arranque do Hot Loads"
+    }
+  },
+  "ru-RU": {
+    "administratorRelaunch": {
+      "message": "Hot Loads запущен без прав администратора, чтобы поддерживать перетаскивание. Если требуется повышенный доступ, разрешите действия администратора в настройках Hot Loads.",
+      "title": "Hot Loads запущен не от имени администратора"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads не нужно запускать от имени администратора. Вместо этого включите действия администратора в настройках Hot Loads.",
+      "title": "Запуск Hot Loads"
+    }
+  },
+  "sv-SE": {
+    "administratorRelaunch": {
+      "message": "Hot Loads startades utan administratörsbehörighet för att dra och släppa ska fungera. Aktivera administratörsåtgärder i inställningarna för Hot Loads när förhöjd åtkomst behövs.",
+      "title": "Hot Loads körs inte som administratör"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads behöver inte köras som administratör. Aktivera i stället administratörsåtgärder i inställningarna för Hot Loads.",
+      "title": "Start av Hot Loads"
+    }
+  },
+  "tr-TR": {
+    "administratorRelaunch": {
+      "message": "Hot Loads, sürükleyip bırakmayı desteklemek için yönetici ayrıcalıkları olmadan başlatıldı. Yükseltilmiş erişim gerektiğinde Hot Loads ayarlarında yönetici işlemlerini etkinleştirin.",
+      "title": "Hot Loads yönetici olarak çalışmıyor"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads’ın yönetici olarak çalıştırılması gerekmez. Bunun yerine Hot Loads ayarlarında yönetici işlemlerini etkinleştirin.",
+      "title": "Hot Loads başlangıcı"
+    }
+  },
+  "uk-UA": {
+    "administratorRelaunch": {
+      "message": "Hot Loads запущено без прав адміністратора, щоб підтримувати перетягування. Якщо потрібен підвищений доступ, увімкніть дії адміністратора в налаштуваннях Hot Loads.",
+      "title": "Hot Loads запущено не від імені адміністратора"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads не потрібно запускати від імені адміністратора. Натомість увімкніть дії адміністратора в налаштуваннях Hot Loads.",
+      "title": "Запуск Hot Loads"
+    }
+  },
+  "zh-CN": {
+    "administratorRelaunch": {
+      "message": "Hot Loads 已在没有管理员权限的情况下启动，以支持拖放操作。需要提升权限时，请在 Hot Loads 设置中启用管理员操作。",
+      "title": "Hot Loads 未以管理员身份运行"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads 无需以管理员身份运行。请改为在 Hot Loads 设置中启用管理员操作。",
+      "title": "Hot Loads 启动"
+    }
+  }
+}
