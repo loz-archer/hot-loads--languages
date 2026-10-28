@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads uruchomione',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} nie jest już uruchomione.',
+        itemShutdown: {
+            failed: 'Nie udało się zamknąć {name}.',
+            forced: '{name} nie odpowiadał, więc został zamknięty wymuszenie.',
+            graceful: '{name} został prawidłowo zamknięty.',
+        },
         onCloseTask: '{trigger} uruchomiło swój plik wsadowy przy zamykaniu.',
         onCloseTaskTitle: 'Rozpoczęto zadanie przy zamykaniu',
         paused: 'Automatyczne uruchamianie aplikacji towarzyszących zostało wstrzymane.',

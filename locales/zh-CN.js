@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads 已启动',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} 已停止运行。',
+        itemShutdown: {
+            failed: '无法关闭 {name}。',
+            forced: '{name} 未响应，已被强制关闭。',
+            graceful: '{name} 已正常关闭。',
+        },
         onCloseTask: '{trigger} 已执行关闭时批处理文件。',
         onCloseTaskTitle: '已启动关闭时任务',
         paused: '已暂停自动启动伴随应用。',

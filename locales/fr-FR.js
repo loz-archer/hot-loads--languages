@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads commencé',
         itemStarted: '{name} — {origin}',
         itemStopped: "{name} n'est plus en cours d'exécution.",
+        itemShutdown: {
+            failed: "Impossible de fermer {name}.",
+            forced: "{name} n'a pas répondu et a été fermé de force.",
+            graceful: "{name} s'est fermé correctement.",
+        },
         onCloseTask: '{trigger} a exécuté son fichier batch de fermeture.',
         onCloseTaskTitle: 'Tâche de fermeture démarrée',
         paused: 'Le lancement automatique du compagnon est suspendu.',

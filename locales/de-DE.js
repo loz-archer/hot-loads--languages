@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads gestartet',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} läuft nicht mehr.',
+        itemShutdown: {
+            failed: '{name} konnte nicht geschlossen werden.',
+            forced: '{name} hat nicht reagiert und wurde zwangsweise beendet.',
+            graceful: '{name} wurde ordnungsgemäß beendet.',
+        },
         onCloseTask: '{trigger} hat seine Batchdatei beim Schließen ausgeführt.',
         onCloseTaskTitle: 'Die Aufgabe „Beim Schließen“ wurde gestartet',
         paused: 'Der automatische Start des Begleiters ist angehalten.',

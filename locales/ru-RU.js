@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads запущен',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} больше не запущен.',
+        itemShutdown: {
+            failed: 'Не удалось закрыть {name}.',
+            forced: '{name} не ответил и был закрыт принудительно.',
+            graceful: '{name} был корректно завершён.',
+        },
         onCloseTask: '{trigger}: выполнен пакетный файл при закрытии.',
         onCloseTaskTitle: 'Задача при закрытии запущена',
         paused: 'Автоматический запуск сопутствующих приложений приостановлен.',

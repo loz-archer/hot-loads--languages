@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads iniciat',
         itemStarted: '{name} — {origin}',
         itemStopped: "{name} ja no s'està executant.",
+        itemShutdown: {
+            failed: "No s'ha pogut tancar {name}.",
+            forced: "{name} no ha respost i s'ha tancat forçosament.",
+            graceful: "{name} s'ha tancat correctament.",
+        },
         onCloseTask: '{trigger} ha executat el fitxer per lots de tancament.',
         onCloseTaskTitle: 'Tasca de tancament iniciada',
         paused: "L'inici automàtic d'aplicacions complementàries està en pausa.",

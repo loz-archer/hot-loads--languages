@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads comenzó',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} ya no se está ejecutando.',
+        itemShutdown: {
+            failed: 'No se pudo cerrar {name}.',
+            forced: '{name} no respondió y se cerró de forma forzada.',
+            graceful: '{name} se cerró correctamente.',
+        },
         onCloseTask: '{trigger} ejecutó su archivo por lotes de cierre.',
         onCloseTaskTitle: 'Se inició la tarea de cierre',
         paused: 'El inicio automático del complemento está en pausa.',
