@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Espera',
         seconds: 'segons',
         preLaunch: "Abans de l'inici",
+        preLaunchRequiresOnboarding: "Completa la configuració d'inici per activar les opcions prèvies a l'inici.",
         resetMonitoredProcess: 'Restableix el procés supervisat al fitxer detectat',
         resetPrimaryDisplay: 'Restableix el monitor principal',
         selectOnCloseBatchFile: 'Selecciona el fitxer per lots de tancament',

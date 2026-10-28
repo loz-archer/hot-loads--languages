@@ -348,6 +348,7 @@ export default {
         onCloseDelayDuration: '等待',
         seconds: '秒',
         preLaunch: '启动前',
+        preLaunchRequiresOnboarding: '完成启动设置以启用启动前选项。',
         resetMonitoredProcess: '将监控进程重置为检测到的文件',
         resetPrimaryDisplay: '恢复主显示器',
         selectOnCloseBatchFile: '选择关闭时批处理文件',

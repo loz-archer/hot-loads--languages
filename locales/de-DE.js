@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Wartezeit',
         seconds: 'Sekunden',
         preLaunch: 'Vorab',
+        preLaunchRequiresOnboarding: 'Schließe die Start-Einrichtung ab, um die Optionen vor dem Start zu aktivieren.',
         resetMonitoredProcess: 'Überwachten Prozess auf erkannte Datei zurücksetzen',
         resetPrimaryDisplay: 'Setzen Sie den primären Monitor zurück',
         selectOnCloseBatchFile: 'Wählen Sie die Batchdatei beim Schließen aus',

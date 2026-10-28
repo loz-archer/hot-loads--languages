@@ -348,6 +348,7 @@ export default {
         onCloseDelayDuration: 'Wait for',
         seconds: 'seconds',
         preLaunch: 'Pre-launch',
+        preLaunchRequiresOnboarding: 'Complete launch onboarding to enable pre-launch options.',
         resetMonitoredProcess: 'Reset monitored process to detected file',
         resetPrimaryDisplay: 'Reset Primary Display',
         selectOnCloseBatchFile: 'Select on-close batch file',

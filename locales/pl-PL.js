@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Czekaj',
         seconds: 'sekund',
         preLaunch: 'Przed uruchomieniem',
+        preLaunchRequiresOnboarding: 'Dokończ konfigurację uruchamiania, aby włączyć opcje przed uruchomieniem.',
         resetMonitoredProcess: 'Resetuj monitorowany proces do wykrytego pliku',
         resetPrimaryDisplay: 'Resetuj główny monitor',
         selectOnCloseBatchFile: 'Wybierz plik wsadowy przy zamknięciu',

@@ -348,6 +348,7 @@ export default {
         onCloseDelayDuration: 'Подождать',
         seconds: 'секунд',
         preLaunch: 'Перед запуском',
+        preLaunchRequiresOnboarding: 'Завершите настройку запуска, чтобы включить параметры перед запуском.',
         resetMonitoredProcess: 'Сбросить отслеживаемый процесс до обнаруженного файла',
         resetPrimaryDisplay: 'Восстановить основной экран',
         selectOnCloseBatchFile: 'Выбрать пакетный файл для закрытия',

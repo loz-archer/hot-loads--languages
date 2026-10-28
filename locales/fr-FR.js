@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Attendre',
         seconds: 'secondes',
         preLaunch: 'Pré-lancement',
+        preLaunchRequiresOnboarding: 'Terminez la configuration du lancement pour activer les options de pré-lancement.',
         resetMonitoredProcess: 'Réinitialiser le processus surveillé sur le fichier détecté',
         resetPrimaryDisplay: 'Réinitialiser le moniteur principal',
         selectOnCloseBatchFile: 'Sélectionnez le fichier batch à la fermeture',
