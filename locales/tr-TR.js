@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Tetikleyicinin arkasına taşı',
         moveInFrontOfTrigger: 'Tetikleyicinin önüne taşı',
         moveToDisplay: 'Monitöre Taşı',
-        noDefaultLaunchArguments: 'Varsayılan başlatma argümanı yok',
+        enterDefaultLaunchArguments: 'Varsayılan başlatma argümanlarını girin',
         onClose: 'Kapanışta',
         onCloseDelay: 'Kapan?? eylemlerini geciktir',
         onCloseDelayDescription: 'Kapan?? eylemlerini ?al??t?rmadan ?nce bekleyin. Tetikleyici yeniden ba?larsa oturum etkin kal?r.',

@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Mover para trás do acionador',
         moveInFrontOfTrigger: 'Mover à frente do acionador',
         moveToDisplay: 'Mover para o Monitor',
-        noDefaultLaunchArguments: 'Sem argumentos de lançamento padrão',
+        enterDefaultLaunchArguments: 'Introduza os argumentos de lançamento predefinidos',
         onClose: 'Ao fechar',
         onCloseDelay: 'Adiar a??es de fecho',
         onCloseDelayDescription: 'Aguarde antes de executar as a??es de fecho. Se o acionador reiniciar, a sess?o permanecer? ativa.',

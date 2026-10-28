@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Flytta bakom utlösare',
         moveInFrontOfTrigger: 'Flytt framför utlösare',
         moveToDisplay: 'Flytta till monitor',
-        noDefaultLaunchArguments: 'Inga standardargument för start',
+        enterDefaultLaunchArguments: 'Ange standardargument för start',
         onClose: 'Vid avslut',
         onCloseDelay: 'F?rdr?j ?tg?rder vid st?ngning',
         onCloseDelayDescription: 'V?nta innan ?tg?rder vid st?ngning k?rs. Om utl?saren startar om f?rblir sessionen aktiv.',

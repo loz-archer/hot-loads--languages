@@ -341,7 +341,7 @@ export default {
         moveBehindTrigger: '移至触发器后方',
         moveInFrontOfTrigger: '移至触发器前方',
         moveToDisplay: '移至显示器',
-        noDefaultLaunchArguments: '没有默认启动参数',
+        enterDefaultLaunchArguments: '输入默认启动参数',
         onClose: '关闭时',
         onCloseDelay: '延迟执行关闭时操作',
         onCloseDelayDescription: '执行关闭时操作前等待一段时间。如果触发器重新启动，则保持当前会话。',

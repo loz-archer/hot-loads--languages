@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Mover detrás del activador',
         moveInFrontOfTrigger: 'Mover delante del activador',
         moveToDisplay: 'Mover a la pantalla',
-        noDefaultLaunchArguments: 'No hay argumentos de lanzamiento predeterminados',
+        enterDefaultLaunchArguments: 'Introduce los argumentos de lanzamiento predeterminados',
         onClose: 'En cierre',
         onCloseDelay: 'Retrasar las acciones de cierre',
         onCloseDelayDescription: 'Espera antes de ejecutar las acciones de cierre. Si el desencadenante se reinicia, la sesi?n permanece activa.',

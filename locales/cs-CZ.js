@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Přesunout za spouštěč',
         moveInFrontOfTrigger: 'Přesunout před spouštěč',
         moveToDisplay: 'Přesunout na monitor',
-        noDefaultLaunchArguments: 'Žádné výchozní argumenty spuštění',
+        enterDefaultLaunchArguments: 'Zadejte výchozí argumenty spuštění',
         onClose: 'Při zavření',
         onCloseDelay: 'Odlo?it akce p?i ukon?en?',
         onCloseDelayDescription: 'Po?kat p?ed proveden?m akc? p?i ukon?en?. Pokud se spou?t?? restartuje, relace z?stane aktivn?.',
