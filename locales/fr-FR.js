@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Ajouter un compagnon',
         addLaunchArgument: 'Ajouter un argument de lancement',
         addTrigger: 'Ajouter un déclencheur',
+        cancelSetup: 'Annuler la configuration',
         clearFile: 'Effacer le fichier',
         dismissNotice: 'Fermer la notification',
         copy: 'Copier {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Lancer',
+        detectProcesses: 'Détecter les processus',
         redetectProcesses: 'Détecter à nouveau les processus',
         shortcutOptionMissing: 'Cette option de lancement n’est plus disponible.',
         createShortcut: 'Créer un raccourci',

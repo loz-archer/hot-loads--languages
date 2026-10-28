@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Voeg Begeleidende app toe',
         addLaunchArgument: 'Voeg opstartargument toe',
         addTrigger: 'Voeg Trigger toe',
+        cancelSetup: 'Configuratie annuleren',
         clearFile: 'Bestand wissen',
         dismissNotice: 'Melding sluiten',
         copy: '{name} kopiëren',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Starten',
+        detectProcesses: 'Processen detecteren',
         redetectProcesses: 'Processen opnieuw detecteren',
         shortcutOptionMissing: 'Deze startoptie is niet meer beschikbaar.',
         createShortcut: 'Snelkoppeling maken',

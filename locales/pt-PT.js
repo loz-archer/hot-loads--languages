@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Adicionar Acompanhante',
         addLaunchArgument: 'Adicionar Argumento de Lançamento',
         addTrigger: 'Adicionar Acionador',
+        cancelSetup: 'Cancelar configuração',
         clearFile: 'Limpar ficheiro',
         dismissNotice: 'Fechar aviso',
         copy: 'Copiar {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Iniciar',
+        detectProcesses: 'Detetar processos',
         redetectProcesses: 'Detetar processos novamente',
         shortcutOptionMissing: 'Esta opção de arranque já não está disponível.',
         createShortcut: 'Criar atalho',

@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Dodaj aplikację towarzyszącą',
         addLaunchArgument: 'Dodaj argument uruchomienia',
         addTrigger: 'Dodaj Wyzwalacz',
+        cancelSetup: 'Anuluj konfigurację',
         clearFile: 'Wyczyść plik',
         dismissNotice: 'Zamknij powiadomienie',
         copy: 'Kopiuj {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Uruchom',
+        detectProcesses: 'Wykryj procesy',
         redetectProcesses: 'Wykryj procesy ponownie',
         shortcutOptionMissing: 'Ta opcja uruchamiania nie jest już dostępna.',
         createShortcut: 'Utwórz skrót',

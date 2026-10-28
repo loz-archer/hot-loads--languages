@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Добавить сопутствующее приложение',
         addLaunchArgument: 'Добавить аргумент запуска',
         addTrigger: 'Добавить триггер',
+        cancelSetup: 'Отменить настройку',
         clearFile: 'Очистить файл',
         dismissNotice: 'Закрыть уведомление',
         copy: 'Копировать {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Запустить',
+        detectProcesses: 'Обнаружить процессы',
         redetectProcesses: 'Повторно обнаружить процессы',
         shortcutOptionMissing: 'Этот вариант запуска больше недоступен.',
         createShortcut: 'Создать ярлык',

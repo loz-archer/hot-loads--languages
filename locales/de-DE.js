@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Begleiter hinzufügen',
         addLaunchArgument: 'Startargument hinzufügen',
         addTrigger: 'Auslöser hinzufügen',
+        cancelSetup: 'Einrichtung abbrechen',
         clearFile: 'Datei löschen',
         dismissNotice: 'Hinweis schließen',
         copy: 'Kopieren {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Starten',
+        detectProcesses: 'Prozesse erkennen',
         redetectProcesses: 'Prozesse erneut erkennen',
         shortcutOptionMissing: 'Diese Startoption ist nicht mehr verfügbar.',
         createShortcut: 'Verknüpfung erstellen',

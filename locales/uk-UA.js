@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Додати супутню програму',
         addLaunchArgument: 'Додати аргумент запуску',
         addTrigger: 'Додати тригер',
+        cancelSetup: 'Скасувати налаштування',
         clearFile: 'Очистити файл',
         dismissNotice: 'Закрити сповіщення',
         copy: 'Копіювати {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Запустити',
+        detectProcesses: 'Виявити процеси',
         redetectProcesses: 'Повторно виявити процеси',
         shortcutOptionMissing: 'Цей параметр запуску більше недоступний.',
         createShortcut: 'Створити ярлик',

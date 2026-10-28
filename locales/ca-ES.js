@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Afegeix una aplicació complementària',
         addLaunchArgument: "Afegeix un argument d'inici",
         addTrigger: 'Afegeix un activador',
+        cancelSetup: 'Cancel·la la configuració',
         clearFile: 'Esborra el fitxer',
         dismissNotice: 'Descarta l’avís',
         copy: 'Copia {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Inicia',
+        detectProcesses: 'Detecta els processos',
         redetectProcesses: 'Torna a detectar els processos',
         shortcutOptionMissing: 'Aquesta opció d’inici ja no està disponible.',
         createShortcut: 'Crea una drecera',

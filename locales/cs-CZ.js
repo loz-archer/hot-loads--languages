@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Přidat doprovodnou aplikaci',
         addLaunchArgument: 'Přidat argument spuštění',
         addTrigger: 'Přidat spouštěč',
+        cancelSetup: 'Zrušit nastavení',
         clearFile: 'Vymazat soubor',
         dismissNotice: 'Zavřít oznámení',
         copy: 'Kopírovat {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Spustit',
+        detectProcesses: 'Detekovat procesy',
         redetectProcesses: 'Znovu detekovat procesy',
         shortcutOptionMissing: 'Tato možnost spuštění již není dostupná.',
         createShortcut: 'Vytvořit zástupce',
