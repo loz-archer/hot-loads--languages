@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Add Companion',
         addLaunchArgument: 'Add Launch Argument',
         addTrigger: 'Add Trigger',
+        cancelSetup: 'Cancel setup',
         clearFile: 'Clear file',
         dismissNotice: 'Dismiss notice',
         copy: 'Copy {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Launch',
+        detectProcesses: 'Detect processes',
         redetectProcesses: 'Re-detect processes',
         shortcutOptionMissing: 'This launch option is no longer available.',
         createShortcut: 'Create shortcut',

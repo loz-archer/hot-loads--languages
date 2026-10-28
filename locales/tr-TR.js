@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Yardımcı Uygulama Ekle',
         addLaunchArgument: 'Başlatma Argümanı Ekle',
         addTrigger: 'Tetikleyici Ekle',
+        cancelSetup: 'Kurulumu iptal et',
         clearFile: 'Dosyayı Temizle',
         dismissNotice: 'Bildirimi kapat',
         copy: '{name} kopyala',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Başlat',
+        detectProcesses: 'İşlemleri algıla',
         redetectProcesses: 'İşlemleri yeniden algıla',
         shortcutOptionMissing: 'Bu başlatma seçeneği artık kullanılamıyor.',
         createShortcut: 'Kısayol oluştur',

@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Aggiungi Companion',
         addLaunchArgument: 'Aggiungi Argomento di Lancio',
         addTrigger: 'Aggiungi Trigger',
+        cancelSetup: 'Annulla configurazione',
         clearFile: 'Cancella file',
         dismissNotice: 'Chiudi avviso',
         copy: 'Copia {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Avvia',
+        detectProcesses: 'Rileva i processi',
         redetectProcesses: 'Rileva nuovamente i processi',
         shortcutOptionMissing: 'Questa opzione di avvio non è più disponibile.',
         createShortcut: 'Crea collegamento',

@@ -85,6 +85,7 @@ export default {
         addCompanion: '添加伴随应用',
         addLaunchArgument: '添加启动参数',
         addTrigger: '添加触发器',
+        cancelSetup: '取消设置',
         clearFile: '清除文件',
         dismissNotice: '关闭通知',
         copy: '复制 {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: '启动',
+        detectProcesses: '检测进程',
         redetectProcesses: '重新检测进程',
         shortcutOptionMissing: '此启动选项已不可用。',
         createShortcut: '创建快捷方式',

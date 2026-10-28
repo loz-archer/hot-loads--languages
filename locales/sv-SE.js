@@ -85,6 +85,7 @@ export default {
         addCompanion: 'Lägg till kompletterande app',
         addLaunchArgument: 'Lägg till startargument',
         addTrigger: 'Lägg till utlösare',
+        cancelSetup: 'Avbryt konfigurationen',
         clearFile: 'Rensa fil',
         dismissNotice: 'Stäng meddelandet',
         copy: 'Kopiera {name}',
@@ -158,6 +159,7 @@ export default {
     },
     launcher: {
         launchAction: 'Starta',
+        detectProcesses: 'Identifiera processer',
         redetectProcesses: 'Identifiera processer igen',
         shortcutOptionMissing: 'Det här startalternativet är inte längre tillgängligt.',
         createShortcut: 'Skapa genväg',
