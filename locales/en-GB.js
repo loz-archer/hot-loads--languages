@@ -341,7 +341,7 @@ export default {
         moveBehindTrigger: 'Move behind trigger',
         moveInFrontOfTrigger: 'Move in front of trigger',
         moveToDisplay: 'Move To Display',
-        noDefaultLaunchArguments: 'No default launch arguments',
+        enterDefaultLaunchArguments: 'Enter default launch arguments',
         onClose: 'On-close',
         onCloseDelay: 'Delay on-close actions',
         onCloseDelayDescription: 'Wait before running on-close actions. If the trigger restarts, keep the session active.',

@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Se déplacer derrière la déclencheur',
         moveInFrontOfTrigger: 'Se déplacer devant la déclencheur',
         moveToDisplay: 'Déplacer vers le moniteur',
-        noDefaultLaunchArguments: 'Aucun argument de lancement par défaut',
+        enterDefaultLaunchArguments: 'Saisissez les arguments de lancement par défaut',
         onClose: 'À la fermeture',
         onCloseDelay: 'Retarder les actions de fermeture',
         onCloseDelayDescription: 'Attendre avant les actions de fermeture. Si le d?clencheur red?marre, la session reste active.',

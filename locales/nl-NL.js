@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Verplaats achter trigger',
         moveInFrontOfTrigger: 'Verplaats voor trigger',
         moveToDisplay: 'Verplaats naar monitor',
-        noDefaultLaunchArguments: 'Geen standaard opstartargumenten',
+        enterDefaultLaunchArguments: 'Voer standaard opstartargumenten in',
         onClose: 'Bij afsluiten',
         onCloseDelay: 'Afsluitacties uitstellen',
         onCloseDelayDescription: 'Wacht voordat de afsluitacties worden uitgevoerd. Als de trigger opnieuw start, blijft de sessie actief.',

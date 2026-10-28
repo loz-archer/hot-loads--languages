@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Mova-se atrás do gatilho',
         moveInFrontOfTrigger: 'Mova-se na frente do gatilho',
         moveToDisplay: 'Mover para a tela',
-        noDefaultLaunchArguments: 'Nenhum argumento de inicialização padrão',
+        enterDefaultLaunchArguments: 'Insira os argumentos de inicialização padrão',
         onClose: 'Perto',
         onCloseDelay: 'Atrasar a??es de fechamento',
         onCloseDelayDescription: 'Aguarde antes de executar as a??es de fechamento. Se o gatilho reiniciar, a sess?o permanecer? ativa.',

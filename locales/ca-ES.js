@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: "Mou darrere de l'activador",
         moveInFrontOfTrigger: "Mou davant de l'activador",
         moveToDisplay: 'Mou al monitor',
-        noDefaultLaunchArguments: "Sense arguments d'inici predeterminats",
+        enterDefaultLaunchArguments: "Introduïu els arguments d'inici predeterminats",
         onClose: 'En tancar',
         onCloseDelay: 'Retarda les accions de tancament',
         onCloseDelayDescription: 'Espera abans d?executar les accions de tancament. Si el desencadenant es reinicia, mant?n la sessi? activa.',

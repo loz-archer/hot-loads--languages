@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Przenieś za Wyzwalacz',
         moveInFrontOfTrigger: 'Przenieś przed Wyzwalacz',
         moveToDisplay: 'Przenieś na monitor',
-        noDefaultLaunchArguments: 'Brak domyślnych argumentów uruchomienia',
+        enterDefaultLaunchArguments: 'Wprowadź domyślne argumenty uruchomienia',
         onClose: 'Przy zamknięciu',
         onCloseDelay: 'Op??nij dzia?ania po zamkni?ciu',
         onCloseDelayDescription: 'Poczekaj przed wykonaniem dzia?a? po zamkni?ciu. Je?li wyzwalacz uruchomi si? ponownie, sesja pozostanie aktywna.',

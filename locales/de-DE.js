@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Bewegen Sie sich hinter den Auslöser',
         moveInFrontOfTrigger: 'Bewegen Sie sich vor den Auslöser',
         moveToDisplay: 'Zum Monitor verschieben',
-        noDefaultLaunchArguments: 'Keine Standard-Startargumente',
+        enterDefaultLaunchArguments: 'Standard-Startargumente eingeben',
         onClose: 'Auf-nah',
         onCloseDelay: 'Aktionen beim Beenden verz?gern',
         onCloseDelayDescription: 'Vor den Aktionen beim Beenden warten. Wenn der Ausl?ser neu startet, bleibt die Sitzung aktiv.',

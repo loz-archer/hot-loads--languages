@@ -413,7 +413,7 @@ export default {
         moveBehindTrigger: 'Sposta dietro trigger',
         moveInFrontOfTrigger: 'Sposta davanti a trigger',
         moveToDisplay: 'Sposta su Monitor',
-        noDefaultLaunchArguments: 'Nessun argomento di lancio predefinito',
+        enterDefaultLaunchArguments: 'Inserisci gli argomenti di avvio predefiniti',
         onClose: 'Alla chiusura',
         onCloseDelay: 'Ritarda le azioni di chiusura',
         onCloseDelayDescription: 'Attendi prima di eseguire le azioni di chiusura. Se il trigger si riavvia, la sessione resta attiva.',

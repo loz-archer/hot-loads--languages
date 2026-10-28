@@ -341,7 +341,7 @@ export default {
         moveBehindTrigger: 'Переместить за триггер',
         moveInFrontOfTrigger: 'Переместить перед триггером',
         moveToDisplay: 'Переместить на экран',
-        noDefaultLaunchArguments: 'Нет аргументов запуска по умолчанию',
+        enterDefaultLaunchArguments: 'Введите аргументы запуска по умолчанию',
         onClose: 'При закрытии',
         onCloseDelay: 'Задержка действий при закрытии',
         onCloseDelayDescription: 'Подождать перед выполнением действий при закрытии. Если триггер перезапустится, сохранить сеанс активным.',
