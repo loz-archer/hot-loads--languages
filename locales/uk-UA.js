@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: '????????',
         seconds: '??????',
         preLaunch: 'Перед запуском',
+        preLaunchRequiresOnboarding: 'Завершіть налаштування запуску, щоб увімкнути параметри перед запуском.',
         resetMonitoredProcess: 'Скинути монірений процес до виявленого файлу',
         resetPrimaryDisplay: 'Скинути основний монітор',
         selectOnCloseBatchFile: 'Вибрати пакетний файл при закритті',

@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'V?nta',
         seconds: 'sekunder',
         preLaunch: 'Före uppstart',
+        preLaunchRequiresOnboarding: 'Slutför startkonfigurationen för att aktivera alternativen före start.',
         resetMonitoredProcess: 'Återställ övervakad process till upptäckt fil',
         resetPrimaryDisplay: 'Återställ primär monitor',
         selectOnCloseBatchFile: 'Välj batchfil vid avslut',

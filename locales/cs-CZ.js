@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: '?ekat',
         seconds: 'sekund',
         preLaunch: 'Před spuštěním',
+        preLaunchRequiresOnboarding: 'Dokončete nastavení spouštění, abyste povolili možnosti před spuštěním.',
         resetMonitoredProcess: 'Resetovat monitorovaný proces na detekovaný soubor',
         resetPrimaryDisplay: 'Resetovat primární monitor',
         selectOnCloseBatchFile: 'Vybrat dávkový soubor při zavření',

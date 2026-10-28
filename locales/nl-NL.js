@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Wachttijd',
         seconds: 'seconden',
         preLaunch: 'Voor lancering',
+        preLaunchRequiresOnboarding: 'Voltooi de startconfiguratie om de opties vóór het starten in te schakelen.',
         resetMonitoredProcess: 'Reset gemonitord proces naar gedetecteerd bestand',
         resetPrimaryDisplay: 'Reset hoofdmonitor',
         selectOnCloseBatchFile: 'Selecteer batchbestand bij afsluiten',

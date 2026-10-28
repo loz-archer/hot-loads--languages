@@ -420,6 +420,7 @@ export default {
         onCloseDelayDuration: 'Bekleme s?resi',
         seconds: 'saniye',
         preLaunch: 'Ön Başlatma',
+        preLaunchRequiresOnboarding: 'Başlatma öncesi seçenekleri etkinleştirmek için başlatma kurulumunu tamamlayın.',
         resetMonitoredProcess: 'İzlenen işlemi tespit edilen dosyaya sıfırla',
         resetPrimaryDisplay: 'Ana Monitörü Sıfırla',
         selectOnCloseBatchFile: 'Kapanışta toplu iş dosyasını seç',
