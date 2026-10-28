@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads started',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} is no longer running.',
+        itemShutdown: {
+            failed: '{name} could not be closed.',
+            forced: '{name} did not respond and was force closed.',
+            graceful: '{name} shut down gracefully.',
+        },
         onCloseTask: '{trigger} ran its on-close batch file.',
         onCloseTaskTitle: 'On-close task started',
         paused: 'Automatic companion launching is paused.',

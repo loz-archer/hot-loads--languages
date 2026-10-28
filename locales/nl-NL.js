@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads gestart',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} is niet meer actief.',
+        itemShutdown: {
+            failed: '{name} kon niet worden gesloten.',
+            forced: '{name} reageerde niet en is geforceerd gesloten.',
+            graceful: '{name} is netjes afgesloten.',
+        },
         onCloseTask: '{trigger} heeft zijn batchbestand bij afsluiten uitgevoerd.',
         onCloseTaskTitle: 'Taak bij afsluiten gestart',
         paused: 'Automatisch opstarten van begeleidende apps is gepauzeerd.',

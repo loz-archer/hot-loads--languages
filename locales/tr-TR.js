@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads başlatıldı',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} artık çalışmıyor.',
+        itemShutdown: {
+            failed: '{name} kapatılamadı.',
+            forced: '{name} yanıt vermedi ve zorla kapatıldı.',
+            graceful: '{name} düzgün şekilde kapatıldı.',
+        },
         onCloseTask: '{trigger}, kapanışa özel toplu iş dosyasını çalıştırdı.',
         onCloseTaskTitle: 'Kapanış görevi başladı',
         paused: 'Otomatik yardımcı uygulama başlatma duraklatıldı.',

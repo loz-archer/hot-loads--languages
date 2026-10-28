@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads zahájeno',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} již není v chodu.',
+        itemShutdown: {
+            failed: 'Aplikaci {name} se nepodařilo zavřít.',
+            forced: 'Aplikace {name} nereagovala a byla nuceně ukončena.',
+            graceful: 'Aplikace {name} byla korektně ukončena.',
+        },
         onCloseTask: '{trigger} spustil svůj dávkový soubor při zavření.',
         onCloseTaskTitle: 'Úkok při zavření zahájen',
         paused: 'Automatické spouštění doprovodných aplikací je pozastaveno.',

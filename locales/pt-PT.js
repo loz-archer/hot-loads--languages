@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads iniciado',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} já não está em execução.',
+        itemShutdown: {
+            failed: 'Não foi possível fechar {name}.',
+            forced: '{name} não respondeu e foi fechado à força.',
+            graceful: '{name} foi encerrado corretamente.',
+        },
         onCloseTask: '{trigger} executou o seu ficheiro batch de fecho.',
         onCloseTaskTitle: 'Tarefa de fecho iniciada',
         paused: 'O lançamento automático de acompanhantes está pausado.',

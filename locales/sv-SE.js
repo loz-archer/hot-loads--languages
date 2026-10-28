@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads startat',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} körs inte längre.',
+        itemShutdown: {
+            failed: '{name} kunde inte stängas.',
+            forced: '{name} svarade inte och tvångsstängdes.',
+            graceful: '{name} avslutades korrekt.',
+        },
         onCloseTask: '{trigger} körde sin batchfil vid avslut.',
         onCloseTaskTitle: 'Uppgift vid avslut påbörjad',
         paused: 'Automatisk start av kompletterande app är pausad.',

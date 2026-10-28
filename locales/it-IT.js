@@ -36,6 +36,11 @@ export default {
         hotLoadsStartedTitle: 'Hot Loads avviato',
         itemStarted: '{name} — {origin}',
         itemStopped: '{name} non è più in esecuzione.',
+        itemShutdown: {
+            failed: 'Impossibile chiudere {name}.',
+            forced: '{name} non ha risposto ed è stato chiuso forzatamente.',
+            graceful: '{name} è stato chiuso correttamente.',
+        },
         onCloseTask: '{trigger} ha eseguito il suo file batch alla chiusura.',
         onCloseTaskTitle: 'Attività alla chiusura avviata',
         paused: "L'avvio automatico dei companion è in pausa.",
