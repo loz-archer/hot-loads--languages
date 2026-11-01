@@ -79,6 +79,16 @@
       "title": "Avvio di Hot Loads"
     }
   },
+  "ja-JP": {
+    "administratorRelaunch": {
+      "message": "ドラッグ＆ドロップを利用できるようにするため、Hot Loads は管理者権限なしで起動しました。昇格されたアクセス権が必要な場合は、Hot Loads の設定で管理者アクションを有効にしてください。",
+      "title": "Hot Loads は管理者として実行されていません"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads を管理者として実行する必要はありません。代わりに、Hot Loads の設定で管理者アクションを有効にしてください。",
+      "title": "Hot Loads の起動"
+    }
+  },
   "nl-NL": {
     "administratorRelaunch": {
       "message": "Hot Loads is zonder administratorrechten gestart om slepen en neerzetten mogelijk te maken. Schakel beheerdersacties in via de instellingen van Hot Loads wanneer verhoogde toegang nodig is.",
