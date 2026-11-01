@@ -59,6 +59,16 @@
       "title": "Inicio de Hot Loads"
     }
   },
+  "es-419": {
+    "administratorRelaunch": {
+      "message": "Hot Loads se inició sin privilegios de administrador para permitir arrastrar y soltar. Habilita las acciones de administrador en la configuración de Hot Loads cuando necesites acceso elevado.",
+      "title": "Hot Loads no se está ejecutando como administrador"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads no necesita ejecutarse como administrador. En su lugar, habilita las acciones de administrador en la configuración de Hot Loads.",
+      "title": "Inicio de Hot Loads"
+    }
+  },
   "fr-FR": {
     "administratorRelaunch": {
       "message": "Hot Loads a été démarré sans privilèges d’administrateur afin de permettre le glisser-déposer. Activez les actions administrateur dans les paramètres de Hot Loads lorsqu’un accès élevé est nécessaire.",
