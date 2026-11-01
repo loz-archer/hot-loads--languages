@@ -99,6 +99,16 @@
       "title": "Hot Loads の起動"
     }
   },
+  "ko-KR": {
+    "administratorRelaunch": {
+      "message": "드래그 앤 드롭을 사용할 수 있도록 Hot Loads가 관리자 권한 없이 시작되었습니다. 상승된 권한이 필요한 경우 Hot Loads 설정에서 관리자 작업을 활성화하세요.",
+      "title": "Hot Loads가 관리자로 실행되고 있지 않습니다"
+    },
+    "administratorStartup": {
+      "message": "Hot Loads는 관리자 권한으로 실행할 필요가 없습니다. 대신 Hot Loads 설정에서 관리자 작업을 활성화하세요.",
+      "title": "Hot Loads 시작"
+    }
+  },
   "nl-NL": {
     "administratorRelaunch": {
       "message": "Hot Loads is zonder administratorrechten gestart om slepen en neerzetten mogelijk te maken. Schakel beheerdersacties in via de instellingen van Hot Loads wanneer verhoogde toegang nodig is.",
