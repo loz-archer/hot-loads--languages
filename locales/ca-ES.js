@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} font | {count} fonts',
         sources: 'Fonts',
     },
+    update: {
+        available: 'La versió {version} està disponible. Fes clic aquí per baixar-la.',
+        installing: "S'està instal·lant l'actualització",
+        pleaseWait: 'Espera',
+    },
 };

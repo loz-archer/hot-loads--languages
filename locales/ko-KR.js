@@ -498,4 +498,9 @@ export default {
         sourceCount: '소스 {count}개 | 소스 {count}개',
         sources: '소스',
     },
+    update: {
+        available: '버전 {version}을 사용할 수 있습니다. 여기를 클릭하여 다운로드하세요.',
+        installing: '업데이트 설치 중',
+        pleaseWait: '잠시 기다려 주세요',
+    },
 };

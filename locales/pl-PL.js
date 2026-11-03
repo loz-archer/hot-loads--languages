@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} źródło | {count} źródeł',
         sources: 'Źródła',
     },
+    update: {
+        available: 'Dostępna jest wersja {version}. Kliknij tutaj, aby pobrać.',
+        installing: 'Instalowanie aktualizacji',
+        pleaseWait: 'Proszę czekać',
+    },
 };

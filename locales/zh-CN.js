@@ -498,4 +498,9 @@ export default {
         sourceCount: '{count} 个来源 | {count} 个来源',
         sources: '来源',
     },
+    update: {
+        available: '版本 {version} 可用。点击此处下载。',
+        installing: '正在安装更新',
+        pleaseWait: '请稍候',
+    },
 };

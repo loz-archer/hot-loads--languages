@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} kaynak | {count} kaynak',
         sources: 'Kaynaklar',
     },
+    update: {
+        available: '{version} sürümü mevcut. İndirmek için buraya tıklayın.',
+        installing: 'Güncelleme yükleniyor',
+        pleaseWait: 'Lütfen bekleyin',
+    },
 };

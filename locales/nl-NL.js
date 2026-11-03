@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} bron | {count} bronnen',
         sources: 'Bronnen',
     },
+    update: {
+        available: 'Versie {version} is beschikbaar. Klik hier om te downloaden.',
+        installing: 'Update installeren',
+        pleaseWait: 'Even geduld',
+    },
 };

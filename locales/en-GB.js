@@ -498,4 +498,9 @@ export default {
         sourceCount: '{count} source | {count} sources',
         sources: 'Sources',
     },
+    update: {
+        available: 'Version {version} is available. Click here to download.',
+        installing: 'Installing update',
+        pleaseWait: 'Please wait',
+    },
 };

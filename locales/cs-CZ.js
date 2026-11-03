@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} zdroj | {count} zdrojů',
         sources: 'Zdroje',
     },
+    update: {
+        available: 'Verze {version} je k dispozici. Klikněte sem pro stažení.',
+        installing: 'Instalace aktualizace',
+        pleaseWait: 'Prosím počkejte',
+    },
 };

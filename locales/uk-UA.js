@@ -570,4 +570,9 @@ export default {
         sourceCount: '{count} джерело | {count} джерел',
         sources: 'Джерела',
     },
+    update: {
+        available: 'Доступна версія {version}. Натисніть тут, щоб завантажити.',
+        installing: 'Встановлення оновлення',
+        pleaseWait: 'Будь ласка, зачекайте',
+    },
 };

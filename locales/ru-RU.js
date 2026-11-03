@@ -498,4 +498,9 @@ export default {
         sourceCount: '{count} источник | {count} источников',
         sources: 'Источники',
     },
+    update: {
+        available: 'Доступна версия {version}. Нажмите здесь, чтобы скачать.',
+        installing: 'Установка обновления',
+        pleaseWait: 'Пожалуйста, подождите',
+    },
 };
