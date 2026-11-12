@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Привязка к процессорам',
+        postLaunch: 'После запуска',
+        description: 'Выберите логические процессоры для запускающего процесса при его обнаружении.',
+        requiresProcess: 'Требуется исполняемый файл или пакетное приложение.',
+        selected: 'Выбранные ЦП: {processors}',
+        processor: 'ЦП {number}',
+        unavailableProcessor: 'ЦП {number} (недоступен)',
+        readFailed: 'Не удалось прочитать доступные процессоры: {error}',
+        applied: 'Привязка к процессорам применена к {name}.',
+        failed: 'Не удалось применить привязку к процессорам для {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads необходимо повторно проверить лицензию DLC в течение {days} дн.\\nОткройте Steam с подключением к интернету, чтобы обновить статус покупки.',
         notificationTitle: 'Требуется проверка лицензии Steam',

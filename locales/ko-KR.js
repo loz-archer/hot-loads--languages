@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'CPU 선호도',
+        postLaunch: '실행 후',
+        description: '시작 프로세스가 감지되면 사용할 논리 프로세서를 선택하세요.',
+        requiresProcess: '실행 파일 또는 패키지 앱이 필요합니다.',
+        selected: '선택한 CPU: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (사용 불가)',
+        readFailed: '사용 가능한 프로세서를 읽을 수 없습니다: {error}',
+        applied: '{name}에 CPU 선호도를 적용했습니다.',
+        failed: '{name}에 CPU 선호도를 적용할 수 없습니다: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads에서 {days}일 이내에 DLC 라이선스를 다시 확인해야 합니다.\n온라인 상태에서 Steam을 열어 구매 상태를 갱신하세요.',
         notificationTitle: 'Steam 라이선스 확인 필요',

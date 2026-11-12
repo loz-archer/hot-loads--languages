@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Afinita CPU',
+        postLaunch: 'Po spuštění',
+        description: 'Vyberte logické procesory pro spouštěný proces při jeho zjištění.',
+        requiresProcess: 'Vyžaduje spustitelný soubor nebo zabalenou aplikaci.',
+        selected: 'Vybrané CPU: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (nedostupný)',
+        readFailed: 'Dostupné procesory se nepodařilo načíst: {error}',
+        applied: 'Afinita CPU byla použita pro {name}.',
+        failed: 'Afinitu CPU se nepodařilo použít pro {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads musí do {days} dnů znovu ověřit vaši licenci DLC.\nOtevřete Steam v online režimu, aby se stav nákupu aktualizoval.',
         notificationTitle: 'Je nutná kontrola licence Steam',

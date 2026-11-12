@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'CPU アフィニティ',
+        postLaunch: '起動後',
+        description: '起動プロセスが検出されたときに使用する論理プロセッサを選択します。',
+        requiresProcess: '実行ファイルまたはパッケージアプリが必要です。',
+        selected: '選択した CPU: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number}（使用不可）',
+        readFailed: '使用可能なプロセッサを読み取れませんでした: {error}',
+        applied: '{name} に CPU アフィニティを適用しました。',
+        failed: '{name} に CPU アフィニティを適用できませんでした: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads は {days} 日以内に DLC ライセンスを再確認する必要があります。\nオンラインで Steam を開き、購入状況を更新してください。',
         notificationTitle: 'Steam ライセンスの確認が必要です',

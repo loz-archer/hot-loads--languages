@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Спорідненість процесорів',
+        postLaunch: 'Після запуску',
+        description: 'Виберіть логічні процесори для процесу запуску після його виявлення.',
+        requiresProcess: 'Потрібен виконуваний файл або пакетна програма.',
+        selected: 'Вибрані ЦП: {processors}',
+        processor: 'ЦП {number}',
+        unavailableProcessor: 'ЦП {number} (недоступний)',
+        readFailed: 'Не вдалося прочитати доступні процесори: {error}',
+        applied: 'Спорідненість процесорів застосовано до {name}.',
+        failed: 'Не вдалося застосувати спорідненість процесорів до {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads має повторно перевірити ліцензію DLC протягом {days} днів.\nВідкрийте Steam в онлайн-режимі, щоб оновити стан покупки.',
         notificationTitle: 'Потрібна перевірка ліцензії Steam',

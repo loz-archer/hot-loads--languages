@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'CPU affinity',
+        postLaunch: 'Post-launch',
+        description: 'Choose logical processors for the launch process when it is detected.',
+        requiresProcess: 'Requires an executable or packaged app.',
+        selected: 'Selected CPUs: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (unavailable)',
+        readFailed: 'Could not read available processors: {error}',
+        applied: 'CPU affinity applied to {name}.',
+        failed: 'Could not apply CPU affinity to {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads needs to recheck your DLC licence within {days} days.\nOpen Steam while online to refresh your purchase status.',
         notificationTitle: 'Steam licence check needed',
