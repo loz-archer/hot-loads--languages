@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Afinitat de CPU',
+        postLaunch: 'Després de l’inici',
+        description: 'Tria els processadors lògics per al procés d’inici quan es detecti.',
+        requiresProcess: 'Requereix un executable o una aplicació empaquetada.',
+        selected: 'CPU seleccionades: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (no disponible)',
+        readFailed: 'No s’han pogut llegir els processadors disponibles: {error}',
+        applied: 'S’ha aplicat l’afinitat de CPU a {name}.',
+        failed: 'No s’ha pogut aplicar l’afinitat de CPU a {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads ha de tornar a comprovar la llicència del DLC en un termini de {days} dies.\nObre Steam mentre estiguis en línia per actualitzar l\'estat de la compra.',
         notificationTitle: 'Cal comprovar la llicència de Steam',

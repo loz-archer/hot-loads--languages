@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'CPU benzeşimi',
+        postLaunch: 'Başlatma sonrası',
+        description: 'Başlatma işlemi algılandığında kullanılacak mantıksal işlemcileri seçin.',
+        requiresProcess: 'Yürütülebilir dosya veya paketlenmiş uygulama gerektirir.',
+        selected: 'Seçili CPU’lar: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (kullanılamıyor)',
+        readFailed: 'Kullanılabilir işlemciler okunamadı: {error}',
+        applied: '{name} için CPU benzeşimi uygulandı.',
+        failed: '{name} için CPU benzeşimi uygulanamadı: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads, DLC lisansınızı {days} gün içinde yeniden kontrol etmelidir.\nSatın alma durumunuzu yenilemek için Steam\'i çevrimiçi modda açın.',
         notificationTitle: 'Steam lisans kontrolü gerekiyor',

@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Affinité CPU',
+        postLaunch: 'Après le lancement',
+        description: 'Choisissez les processeurs logiques pour le processus de lancement dès sa détection.',
+        requiresProcess: 'Nécessite un exécutable ou une application empaquetée.',
+        selected: 'CPU sélectionnés : {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (indisponible)',
+        readFailed: 'Impossible de lire les processeurs disponibles : {error}',
+        applied: 'Affinité CPU appliquée à {name}.',
+        failed: 'Impossible d’appliquer l’affinité CPU à {name} : {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads doit revérifier votre licence du DLC dans les {days} jours.\nOuvrez Steam en mode connecté pour actualiser le statut de votre achat.',
         notificationTitle: 'Vérification de la licence Steam requise',

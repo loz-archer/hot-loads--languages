@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'CPU 关联性',
+        postLaunch: '启动后',
+        description: '选择检测到启动进程时使用的逻辑处理器。',
+        requiresProcess: '需要可执行文件或打包应用。',
+        selected: '已选 CPU：{processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number}（不可用）',
+        readFailed: '无法读取可用处理器：{error}',
+        applied: '已为 {name} 应用 CPU 关联性。',
+        failed: '无法为 {name} 应用 CPU 关联性：{error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads 需要在 {days} 天内重新验证您的 DLC 许可证。\n请联网打开 Steam，以刷新购买状态。',
         notificationTitle: '需要验证 Steam 许可证',

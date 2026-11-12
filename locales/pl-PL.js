@@ -1,4 +1,16 @@
 export default {
+    affinity: {
+        label: 'Koligacja CPU',
+        postLaunch: 'Po uruchomieniu',
+        description: 'Wybierz procesory logiczne dla procesu uruchamiającego po jego wykryciu.',
+        requiresProcess: 'Wymaga pliku wykonywalnego lub aplikacji w pakiecie.',
+        selected: 'Wybrane CPU: {processors}',
+        processor: 'CPU {number}',
+        unavailableProcessor: 'CPU {number} (niedostępny)',
+        readFailed: 'Nie udało się odczytać dostępnych procesorów: {error}',
+        applied: 'Zastosowano koligację CPU dla {name}.',
+        failed: 'Nie udało się zastosować koligacji CPU dla {name}: {error}',
+    },
     entitlement: {
         expiryMessage: 'Hot Loads musi ponownie sprawdzić licencję DLC w ciągu {days} dni.\nUruchom Steam w trybie online, aby odświeżyć stan zakupu.',
         notificationTitle: 'Wymagane sprawdzenie licencji Steam',
