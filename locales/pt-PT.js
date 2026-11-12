@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Todos',
+        selectCcd: 'Selecionar todos os processadores do CCD {number}',
+        deselectCcd: 'Desmarcar todos os processadores do CCD {number}',
         label: 'Afinidade de CPU',
         postLaunch: 'Após o arranque',
         description: 'Escolha os processadores lógicos para o processo de arranque quando for detetado.',

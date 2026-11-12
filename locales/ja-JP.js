@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'すべて',
+        selectCcd: 'CCD {number} のすべてのプロセッサを選択',
+        deselectCcd: 'CCD {number} のすべてのプロセッサの選択を解除',
         label: 'CPU アフィニティ',
         postLaunch: '起動後',
         description: '起動プロセスが検出されたときに使用する論理プロセッサを選択します。',

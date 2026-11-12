@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Tümü',
+        selectCcd: 'CCD {number} içindeki tüm işlemcileri seç',
+        deselectCcd: 'CCD {number} içindeki tüm işlemcilerin seçimini kaldır',
         label: 'CPU benzeşimi',
         postLaunch: 'Başlatma sonrası',
         description: 'Başlatma işlemi algılandığında kullanılacak mantıksal işlemcileri seçin.',

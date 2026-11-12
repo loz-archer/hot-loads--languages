@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Vše',
+        selectCcd: 'Vybrat všechny procesory v CCD {number}',
+        deselectCcd: 'Zrušit výběr všech procesorů v CCD {number}',
         label: 'Afinita CPU',
         postLaunch: 'Po spuštění',
         description: 'Vyberte logické procesory pro spouštěný proces při jeho zjištění.',

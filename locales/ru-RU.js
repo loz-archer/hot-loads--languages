@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Все',
+        selectCcd: 'Выбрать все процессоры CCD {number}',
+        deselectCcd: 'Снять выбор всех процессоров CCD {number}',
         label: 'Привязка к процессорам',
         postLaunch: 'После запуска',
         description: 'Выберите логические процессоры для запускающего процесса при его обнаружении.',
