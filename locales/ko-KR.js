@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: '전체',
+        selectCcd: 'CCD {number}의 모든 프로세서 선택',
+        deselectCcd: 'CCD {number}의 모든 프로세서 선택 해제',
         label: 'CPU 선호도',
         postLaunch: '실행 후',
         description: '시작 프로세스가 감지되면 사용할 논리 프로세서를 선택하세요.',

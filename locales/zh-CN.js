@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: '全部',
+        selectCcd: '选择 CCD {number} 中的所有处理器',
+        deselectCcd: '取消选择 CCD {number} 中的所有处理器',
         label: 'CPU 关联性',
         postLaunch: '启动后',
         description: '选择检测到启动进程时使用的逻辑处理器。',

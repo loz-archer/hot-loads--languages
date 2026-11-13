@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Tous',
+        selectCcd: 'Sélectionner tous les processeurs du CCD {number}',
+        deselectCcd: 'Désélectionner tous les processeurs du CCD {number}',
         label: 'Affinité CPU',
         postLaunch: 'Après le lancement',
         description: 'Choisissez les processeurs logiques pour le processus de lancement dès sa détection.',

@@ -1,5 +1,9 @@
 export default {
     affinity: {
+        ccd: 'CCD {number}',
+        all: 'Wszystkie',
+        selectCcd: 'Zaznacz wszystkie procesory w CCD {number}',
+        deselectCcd: 'Odznacz wszystkie procesory w CCD {number}',
         label: 'Koligacja CPU',
         postLaunch: 'Po uruchomieniu',
         description: 'Wybierz procesory logiczne dla procesu uruchamiającego po jego wykryciu.',
