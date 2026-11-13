@@ -567,6 +567,7 @@ export default {
         quit: 'Surt',
         reload: 'Torna a carregar',
         unpause: 'Reprèn',
+        update: 'Actualitza a {version}',
     },
     directions: {
         behind: 'darrere de',

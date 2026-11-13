@@ -567,6 +567,7 @@ export default {
         quit: 'Ukonec',
         reload: 'P reload',
         unpause: 'Odpozastavit',
+        update: 'Aktualizovat na {version}',
     },
     directions: {
         behind: 'za',

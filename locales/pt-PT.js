@@ -567,6 +567,7 @@ export default {
         quit: 'Sair',
         reload: 'Recarregar',
         unpause: 'Retomar',
+        update: 'Atualizar para {version}',
     },
     directions: {
         behind: 'atrás',

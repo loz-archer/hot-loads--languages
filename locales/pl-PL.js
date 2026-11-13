@@ -567,6 +567,7 @@ export default {
         quit: 'Wyjdź',
         reload: 'Odśwież',
         unpause: 'Wznów',
+        update: 'Zaktualizuj do {version}',
     },
     directions: {
         behind: 'za',

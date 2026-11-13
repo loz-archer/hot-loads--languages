@@ -567,6 +567,7 @@ export default {
         quit: 'Afbreken',
         reload: 'Herladen',
         unpause: 'Ontpauzeren',
+        update: 'Bijwerken naar {version}',
     },
     directions: {
         behind: 'achter',
