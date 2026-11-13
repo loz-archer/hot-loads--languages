@@ -491,6 +491,7 @@ export default {
         quit: '종료',
         reload: '다시 불러오기',
         unpause: '다시 시작',
+        update: '{version}(으)로 업데이트',
     },
     directions: {
         behind: '뒤',

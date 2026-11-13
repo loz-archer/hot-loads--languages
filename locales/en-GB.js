@@ -491,6 +491,7 @@ export default {
         quit: 'Quit',
         reload: 'Reload',
         unpause: 'Unpause',
+        update: 'Update to {version}',
     },
     directions: {
         behind: 'behind',

@@ -491,6 +491,7 @@ export default {
         quit: '退出',
         reload: '重新加载',
         unpause: '取消暂停',
+        update: '更新至 {version}',
     },
     directions: {
         behind: '后方',

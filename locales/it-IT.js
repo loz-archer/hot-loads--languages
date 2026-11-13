@@ -563,6 +563,7 @@ export default {
         quit: 'Esci',
         reload: 'Ricarica',
         unpause: 'Riprendi',
+        update: 'Aggiorna alla versione {version}',
     },
     directions: {
         behind: 'dietro',

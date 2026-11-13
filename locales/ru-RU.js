@@ -491,6 +491,7 @@ export default {
         quit: 'Выход',
         reload: 'Перезагрузить',
         unpause: 'Возобновить',
+        update: 'Обновить до {version}',
     },
     directions: {
         behind: 'позади',

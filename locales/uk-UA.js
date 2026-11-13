@@ -563,6 +563,7 @@ export default {
         quit: 'Вихід',
         reload: 'Перезавантажити',
         unpause: 'Зняти з паузи',
+        update: 'Оновити до {version}',
     },
     directions: {
         behind: 'позаду',

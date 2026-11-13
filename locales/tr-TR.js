@@ -563,6 +563,7 @@ export default {
         quit: 'Çıkış',
         reload: 'Yeniden Yükle',
         unpause: 'Devam Ettir',
+        update: '{version} sürümüne güncelle',
     },
     directions: {
         behind: 'arkasında',

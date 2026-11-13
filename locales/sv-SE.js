@@ -563,6 +563,7 @@ export default {
         quit: 'Avsluta',
         reload: 'Ladda om',
         unpause: 'Avpausa',
+        update: 'Uppdatera till {version}',
     },
     directions: {
         behind: 'bakom',

@@ -563,6 +563,7 @@ export default {
         quit: 'Aufhören',
         reload: 'Neu laden',
         unpause: 'Machen Sie eine Pause',
+        update: 'Auf {version} aktualisieren',
     },
     directions: {
         behind: 'hinter',

@@ -491,6 +491,7 @@ export default {
         quit: '終了',
         reload: '再読み込み',
         unpause: '一時停止を解除',
+        update: '{version} に更新',
     },
     directions: {
         behind: '背面',
